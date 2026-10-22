@@ -187,8 +187,8 @@ Install:
 After creating the GitHub repository, replace the placeholder URL with your repository URL:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_FOLDER>
+git clone https://github.com/Krishna-ui-web/ai-resume-job-intelligence-platform.git
+cd ai-resume-job-intelligence-platform
 ```
 
 ### 2. Configure the Backend
